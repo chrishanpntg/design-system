@@ -4,8 +4,8 @@ type: detail
 title: Motion
 group: styles
 permalink: /styles/motion.html
-description: How the style guide uses motion to enhance the user experience.
+description: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
 ---
 
-For inspiration, check out [Material Design's thorough motion guidelines](https://material.io/guidelines/motion/material-motion.html#material-motion-why-does-motion-matter), as well as all of [Val Head](http://valhead.com/)'s fantastic resources around UI animation.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec varius dapibus sem in scelerisque. Etiam ut leo massa. Suspendisse ex sem, convallis eu arcu quis, fermentum pretium augue

@@ -4,8 +4,8 @@ type: detail
 title: Voice and tone
 group: styles
 permalink: /styles/voice-tone.html
-description: Capturing the personality and authority of the brand in words
+description: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 ---
 
-For inspiration, check out MailChimp's fantastic [Voice and Tone](http://voiceandtone.com/) website.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec varius dapibus sem in scelerisque. Etiam ut leo massa. Suspendisse ex sem, convallis eu arcu quis, fermentum pretium augue. Duis sed lacinia est, non gravida orci. Curabitur eu elit diam. Sed lobortis luctus convallis. Praesent elementum nibh leo, eget pulvinar dolor maximus non.

@@ -4,7 +4,7 @@ type: detail
 title: Color
 group: styles
 permalink: /styles/color.html
-description: Color brings a design to life. Color is versatile; it's used to express emotion and tone, as well as place emphasis and create associations. Color should always be used in meaningful and intentional ways in order to create patterns and visual cues.
+description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec varius dapibus sem in scelerisque
 
 ---
 

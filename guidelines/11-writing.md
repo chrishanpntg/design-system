@@ -4,8 +4,8 @@ type: detail
 title: Writing
 group: guidelines
 permalink: /guidelines/writing.html
-description: Guidelines for writing best practices
+description: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 ---
 
-Guidelines go here.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec varius dapibus sem in scelerisque. Etiam ut leo massa. Suspendisse ex sem, convallis eu arcu quis, fermentum pretium augue. Duis sed lacinia est, non gravida orci. Curabitur eu elit diam. Sed lobortis luctus convallis. Praesent elementum nibh leo, eget pulvinar dolor maximus non.

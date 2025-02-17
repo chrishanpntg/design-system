@@ -3,7 +3,7 @@ layout: page
 group: guidelines
 permalink: /guidelines/code.html
 title: Code conventions
-description: Guidelines for the design system's code base.
+description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec varius dapibus sem in scelerisque.
 ---
 
-Check out the [Frontend Guidelines Questionnaire](https://github.com/bradfrost/frontend-guidelines-questionnaire) and [CSS Architecture for Design Systems](http://bradfrost.com/blog/post/css-architecture-for-design-systems/) for inspiration.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec varius dapibus sem in scelerisque. Etiam ut leo massa. Suspendisse ex sem, convallis eu arcu quis, fermentum pretium augue. Duis sed lacinia est, non gravida orci.

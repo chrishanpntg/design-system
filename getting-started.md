@@ -1,16 +1,16 @@
 ---
 layout: page
 title: Getting Started
-description: The getting started page should provide information for how to get up and running with the design system.
+description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec varius dapibus sem in scelerisque
 ---
 
 ## Downloading
-Provide links and information for downloading the design system's files:
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec varius dapibus sem in scelerisque. Etiam ut leo massa. Suspendisse ex sem, convallis eu arcu quis, fermentum pretium augue
 
-<div><a href="{{ "/downloads.html" | prepend: site.baseurl }}" class="c-btn">Download Design System Files</a></div>
+<div><a href="{{ "/#" | prepend: site.baseurl }}" class="c-btn">Download Design System Files</a></div>
 
 ## File Structure
-Provide an overview of the file system structure and how users of the design system should integrate the design system's code into their project. This info will obviously vary depending on your organization's environment(s).
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec varius dapibus sem in scelerisque. Etiam ut leo massa. Suspendisse ex sem, convallis eu arcu quis, fermentum pretium augue
 
 ```
 design-system-1.0/
@@ -29,10 +29,10 @@ design-system-1.0/
 ```
 
 ## Creating pages and using components
-Provide information on how to properly link up design system files in order to create a basic "hello world" template. From there, describe the process of incorporating design system's components into the project. Again, this will undoubtedly vary based on the setup and technologies your organization utilizes.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec varius dapibus sem in scelerisque. Etiam ut leo massa. Suspendisse ex sem, convallis eu arcu quis, fermentum pretium augue. Duis sed lacinia est, non gravida orci. Curabitur eu elit diam. Sed lobortis luctus convallis. Praesent elementum nibh leo, eget pulvinar dolor maximus non.
 
 ## Code conventions
-Provide a link to learn more about <a href="{{ "/guidelines/code.html" | prepend: site.baseurl }}">code conventions</a>.
+Lorem ipsum dolor sit amet <a href="{{ "/guidelines/code.html" | prepend: site.baseurl }}">Lorem ipsum dolor sit amet</a>.
 
-## Support and Community
-Provide information on where people can go to <a href="{{ "/support.html" | prepend: site.baseurl }}">ask for help</a>, and provide a link to the <a href="{{ "/contribute.html" | prepend: site.baseurl }}">contribution page</a> to help plant tback to the system.
+## Lorem ipsum dolor sit amet
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec varius dapibus sem in scelerisque. Etiam ut leo massa. Suspendisse ex sem, convallis eu arcu quis, fermentum pretium augue

@@ -2,7 +2,7 @@
 layout: page
 title: Release History
 permalink: /release-history/
-description: Jekyll's built-in [blogging feature](http://import.jekyllrb.com/) could be a good way to communicate changes and updates to the design system. See [Material Design's What's New page](https://material.io/guidelines/material-design/whats-new.html) for inspiration.
+description: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
 
 <div>
@@ -16,4 +16,4 @@ description: Jekyll's built-in [blogging feature](http://import.jekyllrb.com/) c
 		</div><!--end c-block-->
     {% endfor %}
 	
-</ul><!--end c-block-list-->
+</div><!--end c-block-list-->

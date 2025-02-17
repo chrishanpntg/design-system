@@ -4,12 +4,11 @@ type: detail
 title: Typography
 group: styles
 permalink: /styles/typography.html
-description: Typography is used to create clear hierarchies, useful organizations, and purposeful alignments that guide users through the product and experience. It is the core structure of any well designed interface.
+description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec varius dapibus sem in scelerisque. Etiam ut leo massa.
 
 ---
 
-We should provide information about used typeface, type scales and other typographic rules applied to design system.
-In case of Bootstrap we present basic styles.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec varius dapibus sem in scelerisque. Etiam ut leo massa. Suspendisse ex sem, convallis eu arcu quis, fermentum pretium augue
 
 ## Headings 
 

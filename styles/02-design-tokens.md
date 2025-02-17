@@ -2,10 +2,10 @@
 layout: page
 type: detail
 title: Design tokens
---group: styles // removed from styles, usualy we do not define 
+group: styles
 permalink: /styles/design-tokens.html
-description: Design token information
+description: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 ---
 
-Here's the place you can define your design system's design tokens. For inspiration, be sure to check out [Salesforce's Lightning Design System design tokens](https://www.lightningdesignsystem.com/design-tokens/).
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec varius dapibus sem in scelerisque. Etiam ut leo massa. Suspendisse ex sem,

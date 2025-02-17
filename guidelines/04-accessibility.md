@@ -4,8 +4,8 @@ type: detail
 title: Accessibility
 group: guidelines
 permalink: /guidelines/accessibility.html
-description: Describe the design system's approach to accessibility
+description: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 ---
 
-For inspiration, check out [Salesforce's Lightning Design System accessibility guidelines](https://www.lightningdesignsystem.com/guidelines/accessibility/), and be sure to check out the fantastic [a11yproject](http://a11yproject.com) for an accessibility checklist, patterns, and resources.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec varius dapibus sem in scelerisque. Etiam ut leo massa. Suspendisse ex sem, convallis eu arcu quis, fermentum pretium augue.

@@ -3,8 +3,8 @@ layout: page
 title: Data entry
 group: guidelines
 permalink: /guidelines/data-entry.html
-description: High-level form guidelines
+description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec varius dapibus sem in scelerisque.
 
 ---
 
-Form guidelines go here
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.

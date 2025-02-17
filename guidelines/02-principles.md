@@ -3,11 +3,12 @@ layout: page
 title: Design Principles
 group: guidelines
 permalink: /guidelines/principles.html
-description: The design system's guiding values
+description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec varius dapibus sem in scelerisque
 
 
 ---
 
-Here is where you take the time to explain the principles that are encapsulated in the entire design system. These principles will manifest themselves in different ways, from high-level guidelines to low-level components.
+  
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec varius dapibus sem in scelerisque. Etiam ut leo massa. Suspendisse ex sem, convallis eu arcu quis, fermentum pretium augue. Duis sed lacinia est, non gravida orci. 
 
-For inspiration, be sure to check out [Design Principles FTW](http://www.designprinciplesftw.com/) and [what goes into creating good design principles](https://articles.uie.com/creating-design-principles/).
+Curabitur eu elit diam. Sed lobortis luctus convallis. Praesent elementum nibh leo, eget pulvinar dolor maximus non.

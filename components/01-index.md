@@ -4,5 +4,5 @@ title: Overview
 group: components
 order: 1
 permalink: /components/
-description: Component overview description
+description: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---

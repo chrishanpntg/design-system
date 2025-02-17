@@ -4,8 +4,8 @@ type: detail
 title: Imagery
 group: styles
 permalink: /styles/imagery.html
-description: Styles for treating pictures and graphics
+description: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 ---
 
-Image style guidelines go here
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec varius dapibus sem in scelerisque. Etiam ut leo massa. Suspendisse ex sem, convallis eu arcu quis, fermentum pretium augue

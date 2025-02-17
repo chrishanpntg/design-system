@@ -4,8 +4,8 @@ type: detail
 title: Data display
 group: guidelines
 permalink: /guidelines/data-display.html
-description: Presenting quick, actionable data
+description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec varius dapibus sem in scelerisque.
 
 ---
 
-Data display guidelines go here
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.

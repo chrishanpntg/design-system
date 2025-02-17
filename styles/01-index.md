@@ -5,7 +5,7 @@ group: styles
 permalink: /styles/
 
 title: Styles
-description: The attributes of the brand
+description: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
 
-Styles are guidelines for core brand attributes, organized by category. These are descriptions of conventions that cut across component and suggest the rules that go into building/designing components and their treatment. Like the <a href="{{ "/guidelines/index.html" | prepend: site.baseurl }}">Guidelines</a>, each of these pages is effectively a reference article on how to use and approach the specitic subject area.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec varius dapibus sem in scelerisque. Etiam ut leo massa. Suspendisse ex sem, convallis eu arcu quis, fermentum pretium augue. Duis sed lacinia est, non gravida orci. Curabitur eu elit diam. Sed lobortis luctus convallis. Praesent elementum nibh leo, eget pulvinar dolor maximus non.
